@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning web development
 <!--
 **bsachin1000/bsachin1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
